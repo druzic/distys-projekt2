@@ -1,0 +1,10 @@
+start python workerService0.py
+start python workerService1.py
+start python workerService2.py
+start python workerService3.py
+start python workerService4.py
+start python workerService5.py
+start python workerService6.py
+start python workerService7.py
+start python workerService8.py
+start python workerService9.py
